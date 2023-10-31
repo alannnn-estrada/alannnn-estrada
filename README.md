@@ -29,11 +29,11 @@ Here's a list of some of my public projects:
 6. **Graficas-TESCH**
    - Description: An example of bar charts created in HTML using PHP and CSS. It's a simple project showcasing data visualization techniques.
    - Language: HTML, CSS, JS, PHP and MYSQL
-   - [Visit Project](https://github.com/alannnn-estrada/Python-Proyects)
+   - [Visit Project](https://github.com/alannnn-estrada/Graficas-TESCH)
      
 8. **NERVELECTRODOMESTICOS-PROYECT-POO-POE**
    - Description: An open-source project focused on inventory management using Java and Object-Oriented Programming (OOP)
-   - Language: HTML, CSS, JS, PHP and MYSQL
+   - Language: Java and MYSQL
    - [Visit Project](https://github.com/alannnn-estrada/NERVELECTRODOMESTICOS-PROYECT-POO-POE)
 
 Please note that I have more projects in my GitHub account, which you can explore at [alann-estrada](https://github.com/alann-estrada).
