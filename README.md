@@ -4,37 +4,7 @@ Welcome to my GitHub profile! I'm Alann Estrada, and here you can find some of t
 
 ## Projects
 
-Here's a list of some of my public projects:
-
-1. **Python-Proyects**
-   - Description: Some random things I've done in Python.
-   - Language: Python
-   - [View Project](https://github.com/alannnn-estrada/Python-Proyects)
-
-2. **Python-BG-Remove**
-   - Description: Python graphical application for background removal in images using rembg.
-   - Language: Python
-   - [View Project](https://github.com/alannnn-estrada/Python-BG-Remove)
-
-3. **Pagina-Web-Responsiva**
-   - Description:  My personal website, hosted right here on GitHub. You can explore it [here](https://alannnn-estrada.github.io/)..
-   - Language: HTML, CSS and JS
-   - [Visit Website](https://alannnn-estrada.github.io/Pagina-Web-Responsiva)
-
-4. **alannnn-estrada.github.io**
-   - Description: Link to my personal website
-   - Language: HTML, CSS and JS
-   - [Visit Website](https://alannnn-estrada.github.io)
-     
-6. **Graficas-TESCH**
-   - Description: An example of bar charts created in HTML using PHP and CSS. It's a simple project showcasing data visualization techniques.
-   - Language: HTML, CSS, JS, PHP and MYSQL
-   - [Visit Project](https://github.com/alannnn-estrada/Graficas-TESCH)
-     
-8. **NERVELECTRODOMESTICOS-PROYECT-POO-POE**
-   - Description: An open-source project focused on inventory management using Java and Object-Oriented Programming (OOP)
-   - Language: Java and MYSQL
-   - [Visit Project](https://github.com/alannnn-estrada/NERVELECTRODOMESTICOS-PROYECT-POO-POE)
+Check my website to check all my projects: alann-estrada.vercel.app
 
 Please note that I have more projects in my GitHub account, which you can explore at [alann-estrada](https://github.com/alann-estrada).
 
