@@ -16,6 +16,5 @@ I'm passionate about coding and technology. I love to create, innovate, and lear
 If you'd like to collaborate on any of my projects or have any questions, feel free to reach out:
 
 - GitHub: [alannnn-estrada](https://github.com/alannnn-estrada)
-- GitHub Seccondary: [alann-estrada](https://github.com/alann-estrada)
 
 Thank you for visiting my profile!
